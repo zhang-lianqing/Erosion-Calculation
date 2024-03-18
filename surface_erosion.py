@@ -5,7 +5,7 @@
 #               - E = f(slope(S)), from Montgmoery and Brandon (2002) and Roering et al. (1999)
 #               - E = f(slope(S), precipitation(P))
 #               - E = f(slope(S), precipitation(P), vegetation cover(V))
-#            2. Use the calibrated erosin model to calculate the erosion rates for the catchment.
+#            2. Use the calibrated erosin model to calculate the erosion rates within a catchment.
 #
 # Author: Lianqing Zhang (lianqing.zhang@uni-jena.de)
 # 
