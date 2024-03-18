@@ -1,15 +1,15 @@
 # ==========================================================================================================
-# Name:      Surface Erosion
+# Name:      surface_erosion.py
 # Purpose:     
-#            1. Calibrate surface features-based erosion models:
+#            1. Calibrate surface feature-based erosion models:
 #               - E = f(slope(S)), from Montgmoery and Brandon (2002) and Roering et al. (1999)
 #               - E = f(slope(S), precipitation(P))
 #               - E = f(slope(S), precipitation(P), vegetation cover(V))
-#            2. Use the calibrated erosin models to calculate the erosion rates for catchments.
+#            2. Use the calibrated erosin model to calculate the erosion rates for the catchment.
 #
 # Author: Lianqing Zhang (lianqing.zhang@uni-jena.de)
 # 
-#           This algorithm combines the cosmogenic nuclides-based and surface features-based erosion models
+#           This algorithm combines the cosmogenic nuclide-based and surface feature-based erosion models
 #               to constrain the surface erosion rate distribution for a catchment.
 # 
 # Created:      2023.12
